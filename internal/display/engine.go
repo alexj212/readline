@@ -3,14 +3,14 @@ package display
 import (
 	"fmt"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/completion"
-	"github.com/reeflective/readline/internal/core"
-	"github.com/reeflective/readline/internal/history"
-	"github.com/reeflective/readline/internal/strutil"
-	"github.com/reeflective/readline/internal/term"
-	"github.com/reeflective/readline/internal/ui"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/completion"
+	"github.com/alexj212/readline/internal/core"
+	"github.com/alexj212/readline/internal/history"
+	"github.com/alexj212/readline/internal/strutil"
+	"github.com/alexj212/readline/internal/term"
+	"github.com/alexj212/readline/internal/ui"
 )
 
 var (

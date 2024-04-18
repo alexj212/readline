@@ -1,6 +1,6 @@
 package keymap
 
-import "github.com/reeflective/readline/inputrc"
+import "github.com/alexj212/readline/inputrc"
 
 var unescape = inputrc.Unescape
 

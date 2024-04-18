@@ -8,7 +8,7 @@ import (
 	"io"
 	"unsafe"
 
-	"github.com/reeflective/readline/inputrc"
+	"github.com/alexj212/readline/inputrc"
 )
 
 // Windows-specific special key codes.

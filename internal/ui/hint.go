@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/strutil"
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/strutil"
+	"github.com/alexj212/readline/internal/term"
 )
 
 // Hint is in charge of printing the usage messages below the input line.

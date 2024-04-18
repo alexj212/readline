@@ -1,6 +1,6 @@
 package keymap
 
-import "github.com/reeflective/readline/inputrc"
+import "github.com/alexj212/readline/inputrc"
 
 // action is represents the action of a widget, the number of times
 // this widget needs to be run, and an optional operator argument.

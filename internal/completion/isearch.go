@@ -3,9 +3,9 @@ package completion
 import (
 	"regexp"
 
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/core"
-	"github.com/reeflective/readline/internal/keymap"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/core"
+	"github.com/alexj212/readline/internal/keymap"
 )
 
 // IsearchStart starts incremental search (fuzzy-finding)

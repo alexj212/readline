@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/term"
 )
 
 // Display prints the current completion list to the screen,

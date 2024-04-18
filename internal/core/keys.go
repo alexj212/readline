@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/strutil"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/strutil"
 )
 
 const (

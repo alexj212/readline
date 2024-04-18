@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/reeflective/readline/internal/color"
+	"github.com/alexj212/readline/internal/color"
 )
 
 // Iterations manages iterations for commands.

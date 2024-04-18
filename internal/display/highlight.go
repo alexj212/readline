@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/core"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/core"
 )
 
 // highlightLine applies visual/selection highlighting to a line.

@@ -9,12 +9,12 @@ import (
 
 	"github.com/rivo/uniseg"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/completion"
-	"github.com/reeflective/readline/internal/keymap"
-	"github.com/reeflective/readline/internal/strutil"
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/completion"
+	"github.com/alexj212/readline/internal/keymap"
+	"github.com/alexj212/readline/internal/strutil"
+	"github.com/alexj212/readline/internal/term"
 )
 
 // standardCommands returns all standard/emacs commands.

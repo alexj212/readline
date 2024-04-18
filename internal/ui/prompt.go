@@ -5,11 +5,11 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/core"
-	"github.com/reeflective/readline/internal/keymap"
-	"github.com/reeflective/readline/internal/strutil"
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/core"
+	"github.com/alexj212/readline/internal/keymap"
+	"github.com/alexj212/readline/internal/strutil"
+	"github.com/alexj212/readline/internal/term"
 )
 
 // Prompt stores all prompt rendering/generation functions and is

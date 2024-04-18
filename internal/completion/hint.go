@@ -3,8 +3,8 @@ package completion
 import (
 	"strings"
 
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/term"
 )
 
 func (e *Engine) hintCompletions(comps Values) {

@@ -3,10 +3,10 @@ package completion
 import (
 	"regexp"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/core"
-	"github.com/reeflective/readline/internal/keymap"
-	"github.com/reeflective/readline/internal/ui"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/core"
+	"github.com/alexj212/readline/internal/keymap"
+	"github.com/alexj212/readline/internal/ui"
 )
 
 // Engine is responsible for all completion tasks: generating, computing,

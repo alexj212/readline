@@ -3,8 +3,8 @@ package strutil
 import (
 	"strings"
 
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/term"
 	"github.com/rivo/uniseg"
 )
 

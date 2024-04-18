@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/reeflective/readline/inputrc"
+	"github.com/alexj212/readline/inputrc"
 )
 
 // readline global options specific to this library.

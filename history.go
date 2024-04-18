@@ -3,9 +3,9 @@ package readline
 import (
 	"strings"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/history"
-	"github.com/reeflective/readline/internal/strutil"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/history"
+	"github.com/alexj212/readline/internal/strutil"
 )
 
 //

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/internal/term"
 )
 
 // getTermWidth is used as a variable so that we can

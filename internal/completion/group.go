@@ -8,8 +8,8 @@ import (
 
 	"golang.org/x/exp/slices"
 
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/term"
 )
 
 // group is used to structure different types of completions with different

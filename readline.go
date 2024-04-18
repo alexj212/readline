@@ -23,15 +23,15 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/completion"
-	"github.com/reeflective/readline/internal/core"
-	"github.com/reeflective/readline/internal/display"
-	"github.com/reeflective/readline/internal/history"
-	"github.com/reeflective/readline/internal/keymap"
-	"github.com/reeflective/readline/internal/macro"
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/completion"
+	"github.com/alexj212/readline/internal/core"
+	"github.com/alexj212/readline/internal/display"
+	"github.com/alexj212/readline/internal/history"
+	"github.com/alexj212/readline/internal/keymap"
+	"github.com/alexj212/readline/internal/macro"
+	"github.com/alexj212/readline/internal/term"
 )
 
 // ErrInterrupt is returned when the interrupt sequence

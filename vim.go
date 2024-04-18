@@ -3,9 +3,9 @@ package readline
 import (
 	"unicode"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/keymap"
-	"github.com/reeflective/readline/internal/strutil"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/keymap"
+	"github.com/alexj212/readline/internal/strutil"
 )
 
 // commands maps widget names to their implementation.

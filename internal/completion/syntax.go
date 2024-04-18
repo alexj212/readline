@@ -1,8 +1,8 @@
 package completion
 
 import (
-	"github.com/reeflective/readline/internal/core"
-	"github.com/reeflective/readline/internal/strutil"
+	"github.com/alexj212/readline/internal/core"
+	"github.com/alexj212/readline/internal/strutil"
 )
 
 // CompleteSyntax updates the line with either user-defined syntax completers, or with the builtin ones.

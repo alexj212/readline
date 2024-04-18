@@ -4,9 +4,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/core"
-	"github.com/reeflective/readline/internal/strutil"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/core"
+	"github.com/alexj212/readline/internal/strutil"
 )
 
 // MatchLocal incrementally attempts to match cached input keys against the local keymap.

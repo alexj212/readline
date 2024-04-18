@@ -1,8 +1,8 @@
 package history
 
 import (
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/core"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/core"
 )
 
 // lineHistory contains all state changes for a given input line,

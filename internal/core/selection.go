@@ -4,9 +4,9 @@ import (
 	"regexp"
 	"unicode"
 
-	"github.com/reeflective/readline/inputrc"
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/strutil"
+	"github.com/alexj212/readline/inputrc"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/strutil"
 )
 
 // Selection contains all regions of an input line that are currently selected/marked

@@ -4,9 +4,9 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/reeflective/readline/internal/color"
-	"github.com/reeflective/readline/internal/keymap"
-	"github.com/reeflective/readline/internal/term"
+	"github.com/alexj212/readline/internal/color"
+	"github.com/alexj212/readline/internal/keymap"
+	"github.com/alexj212/readline/internal/term"
 )
 
 const (
@@ -416,7 +416,7 @@ func (e *Engine) needsAutoComplete() bool {
 		e.keymap.Local() != keymap.Isearch &&
 		e.line.Len() > 0
 
-		// Not possible in Vim command mode either.
+	// Not possible in Vim command mode either.
 	isCorrectMenu := e.keymap.Main() != keymap.ViCommand &&
 		e.keymap.Local() != keymap.Isearch
 
