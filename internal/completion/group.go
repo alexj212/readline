@@ -2,11 +2,10 @@ package completion
 
 import (
 	"math"
+	"slices"
 	"sort"
 	"strconv"
 	"strings"
-
-	"golang.org/x/exp/slices"
 
 	"github.com/alexj212/readline/internal/color"
 	"github.com/alexj212/readline/internal/term"
